@@ -16,9 +16,13 @@ This game will have gun control by mouse, moving target with random size and a s
 ## Timeline
 
 Week 0: Write Proposal 
+
 Week 1: I created the target for the game. Also, if the mouse clicks the red point on the target will make the target disappear and reappear in a random location. 
+
 Week 2: I added the blue aiming for the cursor which could help the player take aim. I also made a scoreboard. 
+
 Week 3: I changed the target size and make it moving around. Then I set the chance for the game. The game will end at player missed 5 times. 
+
 Week 4: Present!
 
 ## Challenges
@@ -32,4 +36,5 @@ https://editor.p5js.org/Mikayla/sketches/DS-CQolIx
 ## References and links
 
 https://www.youtube.com/watch?v=TaN5At5RWH8&t=649s
+
 https://www.youtube.com/watch?v=FVYGyaxG4To
